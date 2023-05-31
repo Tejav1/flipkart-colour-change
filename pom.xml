@@ -6,7 +6,7 @@ git push -u origin master
     <artifactId>hello</artifactId>
     <packaging>war</packaging>
     <version>1.0</version>
-    <name>hello</name>
+    <name>mahesh</name>
     <url>https://github.com/boxfuse/boxfuse-sample-java-war-hello</url>
     <dependencies>
         <dependency>
